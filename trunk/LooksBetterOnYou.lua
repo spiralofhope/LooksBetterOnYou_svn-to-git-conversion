@@ -72,7 +72,6 @@ local eFrame
 local lbDB, playerDB
 
 -- **Local functions
-
 local function chatMsg(s, r, g, b)
    DEFAULT_CHAT_FRAME:AddMessage(s, r, g, b)
 end
@@ -92,7 +91,7 @@ local function freshenItemData()
 end
 
 local function listSavedAlts()
--- Lists alts on this realm for which BagBrother has data
+-- Lists alts on this realm for which we have data
    for realm, realmDB in pairs(lbDB) do
       for name, info in pairs(realmDB) do
          chatMsg(realm.."."..name..", "..info.race..", "..info.sex)
