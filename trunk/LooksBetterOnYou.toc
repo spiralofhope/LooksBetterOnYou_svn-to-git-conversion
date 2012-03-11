@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: Looks Better On You
+## Notes: See your alts in the dressing room. 
+## Author: msaint
+## Version: @project-version@
+## SavedVariables: LooksBetterDB
+
+LooksBetterOnYou.lua
