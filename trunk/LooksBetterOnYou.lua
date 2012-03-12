@@ -8,7 +8,7 @@
 local OUR_NAME = "LooksBetterOnYou"
 local OUR_VERSION = string.match("@project-version@", "([%d\.]+)")
 OUR_VERSION = tonumber(OUR_VERSION) or 2
-local DEBUG = true
+local DEBUG = nil
 local debug = DEBUG and function(s) DEFAULT_CHAT_FRAME:AddMessage("LBOY: "..s, 1, 0, 0) end or function() return end  
 
 -- **Constants -- Until Blizz changes them
