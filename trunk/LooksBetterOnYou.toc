@@ -5,4 +5,5 @@
 ## Version: @project-version@
 ## SavedVariables: LooksBetterDB
 
+LooksBetterOnYou.xml
 LooksBetterOnYou.lua
