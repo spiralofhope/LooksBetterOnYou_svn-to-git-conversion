@@ -3,7 +3,7 @@
 -- Last Modified: @file-date-iso@
 -- Author: msaint
 -- Desc: Lets your alts use the dressing room.
-
+-- Acknowledgements: Thanks to a particular pal for pushing me to write this.
 
 --
 -- ************* ADDON ADMIN **************
