@@ -653,7 +653,7 @@ do
          end
       end
    end
-   events.CancelTimedCallback = CancelTriggeredCallback
+   events.CancelTimedCallback = events.CancelTriggeredCallback
    
    --Since the handlers are on the 'events' object, lets make registering intuitive
    function events:RegisterEvent(...)
