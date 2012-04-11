@@ -3,7 +3,7 @@
 ## Notes: See your alts in the dressing room. 
 ## Author: msaint
 ## Version: @project-version@
-## SavedVariables: LooksBetterDB
+## SavedVariables: LooksBetterDB, LooksBetterSavedOutfits
 
 LooksBetterOnYou.xml
 LooksBetterOnYou.lua
